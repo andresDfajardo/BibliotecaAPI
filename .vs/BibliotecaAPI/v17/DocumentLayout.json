@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\repositories\\ejemplaresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositories\\ejemplaresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\services\\ejemplaresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\services\\ejemplaresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\repositories\\lectoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositories\\lectoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\services\\lectoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\services\\lectoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\ejemplarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\ejemplarescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\lectorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\lectorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\models\\ejemplaresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\ejemplaresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\repositories\\bibliotecariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositories\\bibliotecariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\models\\lectoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\models\\lectoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\asus\\desktop\\bibliotecaapi\\bibliotecaapi\\dto\\ejemplaresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20230B-4720-4000-8A14-30717C1A78E3}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\dto\\ejemplaresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LectoresService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Services\\LectoresService.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Services\\LectoresService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Services\\LectoresService.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Services\\LectoresService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:45:59.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjemplaresService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Services\\EjemplaresService.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Services\\EjemplaresService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Services\\EjemplaresService.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Services\\EjemplaresService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:39:21.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BibliotecariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\BibliotecariosRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Repositories\\BibliotecariosRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\BibliotecariosRepository.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Repositories\\BibliotecariosRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wCgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:40:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjemplaresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\EjemplaresRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Repositories\\EjemplaresRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\EjemplaresRepository.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Repositories\\EjemplaresRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvysAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:35:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LectoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\LectoresRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Repositories\\LectoresRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\LectoresRepository.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Repositories\\LectoresRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:34:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LectoresController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LectoresController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LectoresController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LectoresController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:34:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EjemplaresController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\EjemplaresController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\EjemplaresController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\EjemplaresController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\EjemplaresController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:34:31.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EjemplaresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\DTO\\EjemplaresDTO.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\DTO\\EjemplaresDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\DTO\\EjemplaresDTO.cs",
+              "RelativeToolTip": "BibliotecaAPI\\DTO\\EjemplaresDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:32:19.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LectoresModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Models\\LectoresModel.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\LectoresModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Models\\LectoresModel.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Models\\LectoresModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:26:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EjemplaresModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Models\\EjemplaresModel.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Models\\EjemplaresModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Models\\EjemplaresModel.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Models\\EjemplaresModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:24:06.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
